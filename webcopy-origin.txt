@@ -1,0 +1,288 @@
+Uri: https://www.roblox.com/
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\index.htm
+Content Type: text/html
+
+Uri: https://images.rbxcdn.com/3b43a5c16ec359053fef735551716fc5.ico
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\3b43a5c16ec359053fef735551716fc5.ico
+Content Type: image/x-icon
+
+Uri: https://css.rbxcdn.com/f8c3028a47ac1519a297339415e5c8279f66d10c3318052aed23f998fe9de557.css
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\f8c3028a47ac1519a297339415e5c8279f66d10c3318052aed23f998fe9de557.css
+Content Type: text/css
+
+Uri: https://css.rbxcdn.com/9517d686dc47015c200496d77e2b18146ee37652d18e25ecf9e1ed230310ea13.css
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\9517d686dc47015c200496d77e2b18146ee37652d18e25ecf9e1ed230310ea13.css
+Content Type: text/css
+
+Uri: https://css.rbxcdn.com/5bff53ca0632d33ad4fcd1785c2dc7f2824a3db5c3abc2baeec2aded75fd5732.css
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\5bff53ca0632d33ad4fcd1785c2dc7f2824a3db5c3abc2baeec2aded75fd5732.css
+Content Type: text/css
+
+Uri: https://css.rbxcdn.com/bbfa8678c5dc8467d00c4a99038f3b73d7e45b31d571be1c9eb16ca5a3708ac6.css
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\bbfa8678c5dc8467d00c4a99038f3b73d7e45b31d571be1c9eb16ca5a3708ac6.css
+Content Type: text/css
+
+Uri: https://css.rbxcdn.com/d5344f38053922e5936f0d7e2d3496ee4f83b46f0bb40d1d2c253b80ac82668e.css
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\d5344f38053922e5936f0d7e2d3496ee4f83b46f0bb40d1d2c253b80ac82668e.css
+Content Type: text/css
+
+Uri: https://css.rbxcdn.com/2c2a709240897ce382b7ff55be4347cd0994ab1e2d6ed3b56649e54b0e97e13a.css
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\2c2a709240897ce382b7ff55be4347cd0994ab1e2d6ed3b56649e54b0e97e13a.css
+Content Type: text/css
+
+Uri: https://css.rbxcdn.com/08def520152a575438e73a81aa9a310c2415c327df7b624a24aa6e794d24dba3.css
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\08def520152a575438e73a81aa9a310c2415c327df7b624a24aa6e794d24dba3.css
+Content Type: text/css
+
+Uri: https://static.rbxcdn.com/css/page___29cb8654caf3eb2421376cf095132da7_m.css/fetch
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\css\page___29cb8654caf3eb2421376cf095132da7_m.css\fetch.css
+Content Type: text/css
+
+Uri: https://css.rbxcdn.com/fb14e7e8d6bc730a8d07b374a98cb1de58630e38d29f31429fe89f30863904bb.css
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\fb14e7e8d6bc730a8d07b374a98cb1de58630e38d29f31429fe89f30863904bb.css
+Content Type: text/css
+
+Uri: https://css.rbxcdn.com/0f161e158c689e76fd22cad828c428186a12e276dc4601aaffe5230c3ead905e.css
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\0f161e158c689e76fd22cad828c428186a12e276dc4601aaffe5230c3ead905e.css
+Content Type: text/css
+
+Uri: https://css.rbxcdn.com/2f599b9e9ca20ee3c155684adbf1cdcb7220bab681b55b4505123a0c34e81969.css
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\2f599b9e9ca20ee3c155684adbf1cdcb7220bab681b55b4505123a0c34e81969.css
+Content Type: text/css
+
+Uri: https://js.rbxcdn.com/a67ddd9413db88f4124e2c4f25d8cb1f.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\a67ddd9413db88f4124e2c4f25d8cb1f.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/772034db167d3f4260047db4a7f2b8a58cf448709327013541e47c8962b6e556.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\772034db167d3f4260047db4a7f2b8a58cf448709327013541e47c8962b6e556.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/4db2f741b7a3ec36d11fec999ce33f708ae85641cabfd27e11e0935928f7d9c4.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\4db2f741b7a3ec36d11fec999ce33f708ae85641cabfd27e11e0935928f7d9c4.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/97cb9ac7262155c329a259fce9f940f9bcfa852a6a1ccb44bd8a41c31e84e54b.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\97cb9ac7262155c329a259fce9f940f9bcfa852a6a1ccb44bd8a41c31e84e54b.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/ca2261fe9ad840ce9ed16c2b34a21f45a3bfaaf229bdab564a169aa3d505f92d.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\ca2261fe9ad840ce9ed16c2b34a21f45a3bfaaf229bdab564a169aa3d505f92d.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-1065449093
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://roblox-api.arkoselabs.com/fc/api/?onload=reportFunCaptchaLoaded
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\fc\api\index.htm.js
+Content Type: application/javascript
+
+Uri: https://www.roblox.com/timg/rbx
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\timg\rbx.png
+Content Type: image/png
+
+Uri: https://js.rbxcdn.com/d44520f7da5ec476cfb1704d91bab327.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\d44520f7da5ec476cfb1704d91bab327.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/95044be3ff42e3dc429313faca1316cea62f328a39e29689ffeda9002f3a8bc6.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\95044be3ff42e3dc429313faca1316cea62f328a39e29689ffeda9002f3a8bc6.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/83d836a661ff433d5b7ce719c489e43af590ff75ab39ccc6d393546fe91b766a.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\83d836a661ff433d5b7ce719c489e43af590ff75ab39ccc6d393546fe91b766a.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/e029276f0ff3f0c8287c7b1406487975.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\e029276f0ff3f0c8287c7b1406487975.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/72bb88d05dec1c72332849b75defc1dee84a86e71851dba5a3b54d66a4adf95e.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\72bb88d05dec1c72332849b75defc1dee84a86e71851dba5a3b54d66a4adf95e.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/c976b451423c5e351a96ec4d40b51672d4bad997549809b7d93a114a07d43df1.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\c976b451423c5e351a96ec4d40b51672d4bad997549809b7d93a114a07d43df1.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/4c9a00164d9242bd60de5451a22f502c0c221a896d3a555470c03712d5ee4aa1.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\4c9a00164d9242bd60de5451a22f502c0c221a896d3a555470c03712d5ee4aa1.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/cf340fb618d9a73913b30dfc624ae60d68b9e59723746e6c08d06d14ebdd6dca.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\cf340fb618d9a73913b30dfc624ae60d68b9e59723746e6c08d06d14ebdd6dca.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/af52c4a40a3aaf48cc4d89fe1a4c501065780931599c83b5d88dce9e2235b2c7.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\af52c4a40a3aaf48cc4d89fe1a4c501065780931599c83b5d88dce9e2235b2c7.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/c756de2b0f5f2f05d62899a3b602b4a3b573ad3faa1adea789291ebe9c66a002.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\c756de2b0f5f2f05d62899a3b602b4a3b573ad3faa1adea789291ebe9c66a002.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/ae3d621886e736e52c97008e085fa286.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\ae3d621886e736e52c97008e085fa286.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/81164cee2ed2b07903bf00968368213664e0e78bdbdf9418389c2d2a8512cccf.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\81164cee2ed2b07903bf00968368213664e0e78bdbdf9418389c2d2a8512cccf.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/90f18784a43a70553e967191b948f70b0193df565f1605762c3c1e245ab4b55a.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\90f18784a43a70553e967191b948f70b0193df565f1605762c3c1e245ab4b55a.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/8e523fb6013bf64fc1b8df80df34c48f04f2a3a9ee6f322580dc468f791382f4.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\8e523fb6013bf64fc1b8df80df34c48f04f2a3a9ee6f322580dc468f791382f4.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/0a83202cf5f2310227e607928f73a26cdaa7d5c27f892b99ef51ec3b863a694d.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\0a83202cf5f2310227e607928f73a26cdaa7d5c27f892b99ef51ec3b863a694d.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/ffcc04436179c6b2a6668fdfcfbf62b1.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\ffcc04436179c6b2a6668fdfcfbf62b1.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/c5f542e85b7d0585a3204715f7f6a45fd164bdee93afde2a5065c2c580c22616.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\c5f542e85b7d0585a3204715f7f6a45fd164bdee93afde2a5065c2c580c22616.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/f6dc153055930e72e7a79d29b68ab405a89eed8bb6c4d14be924b03c664302fb.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\f6dc153055930e72e7a79d29b68ab405a89eed8bb6c4d14be924b03c664302fb.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/facfa7c5a84a012af68ebee88781309035753d8efd979602ed21e99b818bd56d.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\facfa7c5a84a012af68ebee88781309035753d8efd979602ed21e99b818bd56d.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/4558db9291196fc7d3472a290ec76c27a0207710f9b2f688ccfe0746052b4271.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\4558db9291196fc7d3472a290ec76c27a0207710f9b2f688ccfe0746052b4271.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/03a64d3850925b52ee73bd27b41658f4a35a2b33b4a499fcb2ce72dcbd98020f.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\03a64d3850925b52ee73bd27b41658f4a35a2b33b4a499fcb2ce72dcbd98020f.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/8f06fef33a61a6c67e1e6d93829b9bb03476bc976102d7bcebe4bfe85a3d4328.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\8f06fef33a61a6c67e1e6d93829b9bb03476bc976102d7bcebe4bfe85a3d4328.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/95fdafe5af749e388de603b9ee7f67bb092c3c790badc572db4e2bca0c32b49a.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\95fdafe5af749e388de603b9ee7f67bb092c3c790badc572db4e2bca0c32b49a.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/c0606e8d6eb4487cdc70d318e6de3d9aaeeb465ddb84acd95139011e56c5e5c6.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\c0606e8d6eb4487cdc70d318e6de3d9aaeeb465ddb84acd95139011e56c5e5c6.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/3fb9aa72de2a170e85eafc002144750baf669402547cb7d4235e33e59e20453c.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\3fb9aa72de2a170e85eafc002144750baf669402547cb7d4235e33e59e20453c.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/3c2e73691069105f1967dda486910c6441a55674c940ea5a9e5ee391b1a8a3ad.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\3c2e73691069105f1967dda486910c6441a55674c940ea5a9e5ee391b1a8a3ad.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/d0df136eea987be4b65d66bd02c084dd.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\d0df136eea987be4b65d66bd02c084dd.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/09b92f1c519fbf98eb9804f5b11f069f02a086bff996cdb77a83a96ff6f96b6c.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\09b92f1c519fbf98eb9804f5b11f069f02a086bff996cdb77a83a96ff6f96b6c.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/310bda9a8ee2f36524a0c5e0e94c5f3801548431acdf617638feebf62eb1c5c2.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\310bda9a8ee2f36524a0c5e0e94c5f3801548431acdf617638feebf62eb1c5c2.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/54d644ac4dba14d818e9f8d4fa76eb286d65e413e6f214e4719ea1bf2dbb01e6.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\54d644ac4dba14d818e9f8d4fa76eb286d65e413e6f214e4719ea1bf2dbb01e6.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/24788915c418ec59b11f33dd230cd2e4f5d2742ce5d3c46ab843046a17db77b3.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\24788915c418ec59b11f33dd230cd2e4f5d2742ce5d3c46ab843046a17db77b3.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/ba14ed88fc4950521528b0c841ff6374f9eee61c3797cde486dbe8b22d82a374.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\ba14ed88fc4950521528b0c841ff6374f9eee61c3797cde486dbe8b22d82a374.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/ce6a4105a4d28cac59aa57a3d6615d56ba63526569ebfd88d49ac363d61caddb.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\ce6a4105a4d28cac59aa57a3d6615d56ba63526569ebfd88d49ac363d61caddb.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/fb47e86d6d7deaf62c7c5c8a62d915361b3f9b47503976e24e4fdd44710a492e.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\fb47e86d6d7deaf62c7c5c8a62d915361b3f9b47503976e24e4fdd44710a492e.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/2d777a65a8d0a4638a762ffc852b4d1f2872cf323a23131dd16160f966b27da5.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\2d777a65a8d0a4638a762ffc852b4d1f2872cf323a23131dd16160f966b27da5.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/b4fc87cb4363aebafcd2034f72fb9e07022e0f13accb3ae8d9da81dc9eb15859.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\b4fc87cb4363aebafcd2034f72fb9e07022e0f13accb3ae8d9da81dc9eb15859.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/bf6ae6dfa7d79f9ffe1a0c1b3a22c25707722264d9afdd2fae5cc3e7f51e5d70.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\bf6ae6dfa7d79f9ffe1a0c1b3a22c25707722264d9afdd2fae5cc3e7f51e5d70.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/c125fb74e968d6f573cfde762240e68903aac6cabfad0fd7b5155f1f289e0201.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\c125fb74e968d6f573cfde762240e68903aac6cabfad0fd7b5155f1f289e0201.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/49be7174dd3f046de04e77d78389b0430a07597bf7a326c34e175b1af4cd48e6.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\49be7174dd3f046de04e77d78389b0430a07597bf7a326c34e175b1af4cd48e6.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/84100c620f1e385508b7fcfe133b946680c94242cf90089f7f97d405c0283c11.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\84100c620f1e385508b7fcfe133b946680c94242cf90089f7f97d405c0283c11.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/5f0cf194ec798cecbf80e5d5be61621ac86ce877c2a5ec1b7ce99519a7ae48c8.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\5f0cf194ec798cecbf80e5d5be61621ac86ce877c2a5ec1b7ce99519a7ae48c8.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/b182120e2baccd1e5003b2a8b5a6e39b433a681fb517234e7163b28c0f0eaa2f.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\b182120e2baccd1e5003b2a8b5a6e39b433a681fb517234e7163b28c0f0eaa2f.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/d65d38b7c8e854eb865388749efd0ccf6f86bfa8eb798975bd81ff5d5120204d.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\d65d38b7c8e854eb865388749efd0ccf6f86bfa8eb798975bd81ff5d5120204d.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/ee6a5ad0dd6831cbde49fac0632a1faa3a8584bb93815f2e91afefd2ecd0afb5.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\ee6a5ad0dd6831cbde49fac0632a1faa3a8584bb93815f2e91afefd2ecd0afb5.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/c9e6560b08fb8544d0f22aa4adab8ef2717c475dcac7abce674168eb8f259a02.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\c9e6560b08fb8544d0f22aa4adab8ef2717c475dcac7abce674168eb8f259a02.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/d11df52fdb9676a899b9a715f89867b86d1d8a897da128936a143ecb653db48a.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\d11df52fdb9676a899b9a715f89867b86d1d8a897da128936a143ecb653db48a.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/c76f1b1aed5ee44ddb32b19dbb7496a06e7b85847b284e9d6478cd56144d5e7a.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\c76f1b1aed5ee44ddb32b19dbb7496a06e7b85847b284e9d6478cd56144d5e7a.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/f41ec06eeae79fa94e6ae9f435b0a1c6743085e898884eddb4d4025ca3af8a44.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\f41ec06eeae79fa94e6ae9f435b0a1c6743085e898884eddb4d4025ca3af8a44.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/6852af8f7df15395ccb3d121a914ee7301a7162f5afb3395575c6075c617923f.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\6852af8f7df15395ccb3d121a914ee7301a7162f5afb3395575c6075c617923f.js
+Content Type: application/javascript
+
+Uri: https://js.rbxcdn.com/40b899edfb1c1b97f44c86f1bc2e3ab0.js
+File Name: C:\Users\khana\OneDrive\Desktop\Roblox copy\www.roblox.com\40b899edfb1c1b97f44c86f1bc2e3ab0.js
+Content Type: application/javascript
+
